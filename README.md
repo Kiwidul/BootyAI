@@ -14,3 +14,12 @@ A computer vision and artificial intelligence app for calculating booties. Curre
  - How To Collaborate
 
 ## Introduction
+
+Ever wondered what the mathematical representation and the calculations of a nice butt is? probalby not, but regardless of wether you care about math or not, the BootyAI IOS application is extremely entertaining. The mathematics might not be as relevant to everyone, so we trained an AI to produce a score out of 10, and a cool comment about the photo.
+
+
+## Documentation
+
+Below you will find screenshots of mockups, design ideas, etc., and we will update them during development.
+
+#### The Sign in and Log In screen
