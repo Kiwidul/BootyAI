@@ -22,6 +22,15 @@ Ever wondered what the mathematical representation and the calculations of a nic
 
 Below you will find screenshots of mockups, design ideas, etc., and we will update them during development.
 
-#### The Sign in and Log In screen
+#### The Welcome Screen
 
 ![ScreenShot](startscreen.png)
+
+#### The Privacy Policy Screen
+
+![ScreenShot](privacypolicy.png)
+
+#### The Sign Up and Log In Screens
+
+![ScreenShot](Signupscreen.png)
+
