@@ -13,7 +13,7 @@ A computer vision and artificial intelligence app for calculating booties. Curre
   - Code Explanation
   - Algorithm Designs
   - Illustrations
- - How To Collaborate
+ - How To Contribute
 
 ## Introduction
 
