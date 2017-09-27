@@ -12,6 +12,7 @@ A computer vision and artificial intelligence app for calculating booties. Curre
 - Development
   - Code Explanation
   - Algorithm Designs
+  - Frameworks
   - Illustrations
  - How To Contribute
 
@@ -39,3 +40,18 @@ Below you will find screenshots of mockups, design ideas, etc., and we will upda
 more
 
 ## Join The Open Beta!
+
+## Development
+
+#### Code Explanation
+
+#### Algorithm Designs
+
+#### Frameworks
+
+##### The BootyNet Model
+
+BootyNet is a custom CoreML model used for Machine Learning and Computer Vision. It is trained to recognize 1000+ booty types of all forms and sizes.
+
+https://developer.apple.com/machine-learning/
+
